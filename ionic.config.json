@@ -1,0 +1,7 @@
+{
+  "name": "rentedRoomByvee",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
